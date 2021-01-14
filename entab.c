@@ -55,10 +55,12 @@ void entab(char s[], int col)
 			++space;
 			if ((pos % col == 0) && (space > 0)) {
 				if (space == 1) {
-					printf("_");
+					//printf("_");
+					putchar(' ');
 					space = 0;
 				} else {
-					printf("\\t");
+					//printf("\\t");
+					putchar('\t');
 					space = 0;
 				}
 			}
@@ -69,7 +71,8 @@ void entab(char s[], int col)
 			arr_pos = 0;
 		} else {
 			while (space > 0) {
-				printf("_");
+				//printf("_");
+				putchar(' ');
 				--space;
 			}
 			printf("%c", s[arr_pos]);
