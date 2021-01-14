@@ -3,6 +3,7 @@
  *
  *  Created on: Jan 13, 2021
  *  Author: Jesse Kukuk
+ *  Original Source: https://fruttenboel.verhoeven272.nl/princ/entab.html
  *
  *  "Write a program entab that replaces strings of blanks by the minimum number
  *   of tabs and blanks to achieve the same spacing. Use the same tab stops, say
