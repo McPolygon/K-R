@@ -5,10 +5,10 @@
  *  Author: Jesse Kukuk
  *  
  *  input: 
- *  Adama: What do you hear, Starbuck? Starbuck: Nothing but the rain, sir. Adama: Then get your gun, and bring the cat in.
+ *      Adama: What do you hear, Starbuck? Starbuck: Nothing but the rain, sir. Adama: Then get your gun, and bring the cat in.
  *
- *	Output : 
- *  Adama: What do y
+ *  output : 
+ *      Adama: What do y
  *	ou hear, Starbuc
  *	k? Starbuck: Not
  *	hing but the rai
